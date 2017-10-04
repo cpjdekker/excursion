@@ -23,12 +23,13 @@ h2 {
   color: white;
 }
 
-p.credits {
+footer {
   color: gray;
   text-align: right;
 }
 
-.link {
+a {
+  font-family: Verdana;
   color: aquamarine;
   font-size: 16px;
 }
